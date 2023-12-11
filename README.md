@@ -46,4 +46,4 @@ Course project completed as part of the Algorithmic Methods of Data Mining cours
 ## Acknowledgements
 
 - Course instructors
-- Dataset provided by: [[source](https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies)https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies]
+- Dataset provided by: [(https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies)https://www.kaggle.com/datasets/vodclickstream/netflix-audience-behaviour-uk-movies]
