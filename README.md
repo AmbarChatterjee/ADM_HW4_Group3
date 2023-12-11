@@ -1,4 +1,4 @@
-# ADM_HW4_Group3
+# ADM_HW4_Group3 - Recommendation systems and clustering everywhere
 
 This repository contains code and analysis for the 4th homework assignment for the Algorithmic Methods of Data Mining course. 
 
