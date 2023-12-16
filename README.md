@@ -31,7 +31,7 @@ The bash script assumes a Linux/Unix environment with common command line utilit
 
 - Ambar Chatterjee
 - Elias Antoun
-- Sofia Crobeddu
+- Sofia Noemi Crobeddu
 - Damian Zeller
 
 Course project completed as part of the Algorithmic Methods of Data Mining course.
